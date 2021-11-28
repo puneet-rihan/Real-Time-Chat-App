@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'https://chatiffy.herokuapp.com/';
+const ENDPOINT = 'https://server-chatapp-puneet.herokuapp.com/';
 
 let socket;
 
