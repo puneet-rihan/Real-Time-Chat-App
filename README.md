@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-### [Live Site](https://chatiffy.netlify.app/)
+### [Live Site](https://chatappbypuneet.netlify.app/)
 
 ## Introduction
 This is an online real-time chatroom app made with NodeJs and Socket.io.
